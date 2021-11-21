@@ -1,0 +1,10 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  max-width: 480px;
+  box-sizing: border-box;
+  margin: 0px auto;
+  background-color: #fff;
+  padding: 16px 16px 80px 16px;
+}
